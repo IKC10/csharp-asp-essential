@@ -12,3 +12,4 @@ C:\Users\ickch\OneDrive\Desktop\Start\Start\Overview\MyConsoleApp\obj\Debug\net6
 C:\Users\ickch\OneDrive\Desktop\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
 C:\Users\ickch\OneDrive\Desktop\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\ickch\OneDrive\Desktop\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
+C:\Users\ickch\OneDrive\Desktop\Start\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.sourcelink.json
